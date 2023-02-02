@@ -1,2 +1,0 @@
-# Discuss: Field Guide Critique
-

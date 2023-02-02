@@ -1,0 +1,32 @@
+## Hosting on Github Pages
+
+1. Create a branch called `gh-pages`
+2. In settings, enable Pages to deploy from gh-pages branch
+3. The Actions workflow will automatically publish a Gitbook on the gh-pages branch
+
+## Updating a new book
+
+Modify the following files:
+
+- Configuration settings: `book.json`
+- Table of contents: `SUMMMARY.md`
+- `cover.jpg, cover_small.jpg`
+- `LICENSE.md`
+
+## Installing gitbook cli
+
+Requirements: NodeJS v4 and above
+
+`npm install -g gitbook-cli`
+
+## Local development
+
+Install local development dependencies: `bundle install`
+
+Install gitbook plugins: `gitbook install`
+
+Build the static website using: `gitbook build`
+
+Build and serve on localhost: `gitbook serve`
+
+**Note:** PDF and eBook files generate via github action, and not the Gitbook generator, therefore, PDF files will be unavailable in local development.

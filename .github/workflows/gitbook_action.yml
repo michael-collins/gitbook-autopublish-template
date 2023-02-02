@@ -19,10 +19,11 @@ jobs:
   build:
     name: Build Gitbook
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
       # Cancel previous runs
       - name: Cancel Previous Runs
-        uses: styfle/cancel-workflow-action@0.4.1
+        uses: styfle/cancel-workflow-action@0.11.0
         with:
           access_token: ${{ github.token }} 
       # Check out the repo first
@@ -35,7 +36,7 @@ jobs:
         with:
           # specify either github_token or personal_token
           token: ${{ secrets.GITHUB_TOKEN }}
-          # personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          # token: ${{ secrets.PERSONAL_TOKEN }}
           gitbook_pdf: true
           gitbook_pdf_name: ${{ github.event.repository.name }}
           gitbook_pdf_dir: 'exports'
