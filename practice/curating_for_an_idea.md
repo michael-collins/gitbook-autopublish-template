@@ -1,2 +1,0 @@
-# Curating for an Idea
-

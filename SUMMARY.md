@@ -1,33 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-* Chapter 1: What is design?
-  * [What is design?](topics/what_is_design.md)
-  * [Design thinking](topics/design_thinking.md)
-  * [Systems thinking](topics/systems_thinking.md)
-  * [Critical thinking](topics/critical_thinking.md)
-  * [Design process](topics/design-process.md)
-* Chapter 2: The Design of Experience
-  * [Semiotics](topics/semiotics.md)
-  * [Inclusive design](topics/inclusive-design.md)
-  * [Interaction design](topics/interaction_design.md)
-  * [Critical design](topics/critical_design.md)
-  * [Visual design](topics/visual_design.md)
-  * [Identity design](topics/identity-design.md)
-* Ritual Project
-  * [Ritual Project introduction](projects/ritual/ritual_project.md)
-  * [Discover: Observation](projects/ritual/discover_observation.md)
-  * [Define: Word pairs](projects/ritual/define-purpose-word-pairs.md)
-  * [Discover: Interview](projects/ritual/discover_interview.md)
-  * [Define: Themes and insights](projects/ritual/define-insights.md)
-  * [Define: How might we?](projects/ritual/define_hmw.md)
-  * [Develop: Brainstorm & journey map](projects/ritual/develop-brainstorm-journey-map.md)
-  * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
-  * [Develop: Prototype](projects/ritual/develop_prototype.md)
-  * [Develop: Media](projects/ritual/develop_media.md)
-  * [Develop: Test](projects/ritual/develop_test_and_review.md)
-  * [Develop: Statement](projects/ritual/develop_ritual_statement.md)
-  * [Deliver: Explainer video](projects/ritual/deliver_project_explainer_video.md)
-  * [Deliver: Documentation](projects/ritual/deliver_ritual_experience_documentation.md)
-  * [Deliver: Project document](projects/ritual/deliver_ritual_project_document.md)
-  * [Deliver: Feedback and analysis](projects/ritual/deliver_ritual_project_feedback_analysis.md)
+* Chapter 1
+  * [Chapter overview](/pages/chapter-1.md)
+  * [Chapter overview](/pages/chapter-2.md)

@@ -1,10 +1,10 @@
 {
-    "title": "Creative Research",
+    "title": "Gitbook Autopublish Template",
     "author": "Michael Collins",
     "language": "en",
     "plugins": [
         "oerschema",
-        "youtube",
+        "video",
         "codeblock-disable-glossary",
         "github-edit",
         "-sharing",
@@ -12,7 +12,7 @@
     ],
     "pluginsConfig": {
         "github-edit": {
-            "repo": "michael-collins/creative-research-book",
+            "repo": "michael-collins/gitbook-autopublish-template",
             "branch": "master"
         },
         "toolbar": {
@@ -21,13 +21,13 @@
                 {
                     "label": "Download PDF",
                     "icon": "fa fa-file-pdf-o",
-                    "url": "http://michaelcollins.xyz/creative-research-book/exports/creative-research-book.pdf",
+                    "url": "/gitbook-autopublish-template/exports/gitbook-autopublish-template.pdf",
                     "target": "_blank"
                 },
                 {
                     "label": "Download ebook",
                     "icon": "fa fa-book",
-                    "url": "http://michaelcollins.xyz/creative-research-book/exports/creative-research-book.epub",
+                    "url": "/gitbook-autopublish-template/exports/gitbook-autopublish-template.epub",
                     "target": "_blank"
                 }
                 
