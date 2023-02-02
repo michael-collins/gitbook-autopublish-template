@@ -1,0 +1,2 @@
+# Discuss: Ritual App Critique
+

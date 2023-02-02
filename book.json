@@ -1,0 +1,37 @@
+{
+    "title": "Creative Research",
+    "author": "Michael Collins",
+    "language": "en",
+    "plugins": [
+        "oerschema",
+        "youtube",
+        "codeblock-disable-glossary",
+        "github-edit",
+        "-sharing",
+        "toolbar"
+    ],
+    "pluginsConfig": {
+        "github-edit": {
+            "repo": "michael-collins/creative-research-book",
+            "branch": "master"
+        },
+        "toolbar": {
+            "buttons":
+            [
+                {
+                    "label": "Download PDF",
+                    "icon": "fa fa-file-pdf-o",
+                    "url": "http://michaelcollins.xyz/creative-research-book/exports/creative-research-book.pdf",
+                    "target": "_blank"
+                },
+                {
+                    "label": "Download ebook",
+                    "icon": "fa fa-book",
+                    "url": "http://michaelcollins.xyz/creative-research-book/exports/creative-research-book.epub",
+                    "target": "_blank"
+                }
+                
+            ]
+        }
+    }
+}
