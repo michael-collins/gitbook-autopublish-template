@@ -19,7 +19,7 @@ jobs:
   build:
     name: Build Gitbook
     runs-on: ubuntu-latest
-    permissions: read-all|write-all
+    permissions: write-all
     steps:
       # Cancel previous runs
       - name: Cancel Previous Runs
