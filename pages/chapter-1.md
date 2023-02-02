@@ -1,4 +1,4 @@
-![Image of Rams' 10 principles of good design](rams.jpg)
+![Image of Rams' 10 principles of good design](/assets/image.jpg)
 
 # Chapter 1
 
