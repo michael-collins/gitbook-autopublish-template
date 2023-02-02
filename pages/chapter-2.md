@@ -3,4 +3,4 @@
 # Chapter 2
 
 
-Internal link: [publish.md](/pages/chapter-1.md)
+Internal link: [Let's go to Chapter 1](/pages/chapter-1.md)

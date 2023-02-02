@@ -2,6 +2,10 @@
 
 # Chapter 1
 
+## How to do local development
+
+[Development directions](/publish.md)
+
 ## Video plugin shortcodes
 
 Youtube: `{% video %}https://www.youtube.com/watch?v=Oru-qw-Faac{% endvideo %}`

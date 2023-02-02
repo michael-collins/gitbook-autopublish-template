@@ -1,5 +1,5 @@
 # Summary
 
-* Chapter 1
-  * [Chapter overview](/pages/chapter-1.md)
-  * [Chapter overview](/pages/chapter-2.md)
+* Chapters
+  * [Chatper 1: Getting started](/pages/chapter-1.md)
+  * [Chapter 2: A placeholder page](/pages/chapter-2.md)
