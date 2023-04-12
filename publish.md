@@ -2,8 +2,8 @@
 
 1. Fork this repository
 2. Create a branch called `gh-pages`
-3. Enable Pages to deploy from gh-pages branch.
-4. Make sure Actions have permission to run on this repo. `gitbook_action.yml` workflow will automatically publish a Gitbook on the gh-pages branch.
+3. Enable Pages to deploy from `gh-pages` branch.
+4. Make sure Actions have permission to run on this repo. `gitbook_action.yml` workflow will automatically publish a Gitbook on the `gh-pages` branch.
 
 ## Updating a new book
 
