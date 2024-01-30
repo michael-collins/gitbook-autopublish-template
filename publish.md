@@ -16,7 +16,7 @@ Modify the following files:
 
 ## Installing gitbook cli
 
-Requirements: NodeJS v4 and above
+Requirements: NodeJS v10 (recommend using NVM to manage node versions)
 
 `npm install -g gitbook-cli`
 
